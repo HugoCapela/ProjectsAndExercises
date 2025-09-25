@@ -1,1 +1,1 @@
-# PortfolioProjects
+# ProjectsAndExercises
